@@ -1,0 +1,24 @@
+{
+  "name": "its-core",
+  "version": "1.0.0",
+  "description": "Core componente for its deployment",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andreasbertschdfki/ss18-its.git"
+  },
+  "author": "Andreas Bertsch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreasbertschdfki/ss18-its/issues"
+  },
+  "homepage": "https://github.com/andreasbertschdfki/ss18-its#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0-beta4"
+  }
+}

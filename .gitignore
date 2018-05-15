@@ -3,4 +3,5 @@ Vagrantfile
 Inventory
 *.retry
 .idea
+node_modules
 /tmp/*
