@@ -1,0 +1,6 @@
+.vagrant
+Vagrantfile
+Inventory
+*.retry
+.idea
+/tmp/*
